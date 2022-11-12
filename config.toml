@@ -1,0 +1,5 @@
+baseURL = "http://localhost:1313"
+title = "kolotii.com"
+theme = "PaperMod"
+languageCode = "en"
+defaultContentLanguage = "en"
